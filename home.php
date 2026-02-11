@@ -1,4 +1,4 @@
-<body bgcolor="#CC9900">
+<body bgcolor="#ed0000">
 	<table width="1238" height="530" border="0">
 		<tr>
 			<td width="23" rowspan="2">&nbsp;</td>
@@ -13,7 +13,7 @@
 				<p>
 					SCITECH
 			</td>
-			<td width="190" bgcolor="#FFFF66"><ul>
+			<td width="190" bgcolor="#2f00ff"><ul>
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
